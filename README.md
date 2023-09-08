@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ede</h1>
 <h3 align="center">A passionate Machine Learning developer from Nigeria</h3>
-
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY7Kk8igTKOh27P7tFPCPui6LqB6WmcrZLiA&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aibuedefe&label=Profile%20views&color=0e75b6&style=flat" alt="aibuedefe" /> </p>
 
 <p align="left"> <a href="https://twitter.com/edeaibuedefe" target="blank"><img src="https://img.shields.io/twitter/follow/edeaibuedefe?logo=twitter&style=for-the-badge" alt="edeaibuedefe" /></a> </p>
